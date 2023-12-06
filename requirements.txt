@@ -1,0 +1,14 @@
+transformers
+beautifulsoup4
+sentence-transformers
+pandas
+numpy
+nltk
+re
+torch
+seaborn
+TruncatedSVD
+KMeans
+TSNE
+matplotlib
+stopwordsiso
